@@ -1,0 +1,7 @@
+name: LethalCompany
+version: '0.1'
+main: org.weebeler.lethalCompany.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ weebeler ]
+description: Recreation of the popular game Lethal Company
